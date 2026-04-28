@@ -8,6 +8,7 @@ yarn-error.log*
 .env
 .env.*
 !.env.example
+.claude/
 
 # Certificats SSL (gérés sur l'hôte via Certbot)
 *.pem
