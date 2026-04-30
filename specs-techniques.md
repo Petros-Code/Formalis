@@ -54,7 +54,6 @@
 ## 3. Ports exposés
 
 | Service | Port interne | Port hôte exposé | Accessible depuis l'extérieur |
-|---|---|---|---|
 | NGINX | 80, 443 | 80, 443 | Oui |
 | Node.js | 3000 | — | Non (via NGINX uniquement) |
 | MySQL | 3306 | — | Non |
